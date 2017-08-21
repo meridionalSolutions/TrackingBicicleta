@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tracking Bicicleta</string>
+    <string name="encender">ENCENDER</string>
+    <string name="apagar">APAGAR</string>
+    <string name="estado_bateria_correcto">Bateria Cargada</string>
+    <string name="elaborado_por_diana_valle">Elaborado por: Diana Valle</string>
+    <string name="textview">TextView</string>
+    <string name="Sistema_ON">Sistema Encendido</string>
+    <string name="Sistema_OFF">Sistema Apagado</string>
+    <string name="Confirmacion_Encendido">alarma encendida correctamente. Revisando cambio de posicion</string>
+    <string name="Confirmacion_Apagado">alarma apagada correctamente</string>
+    <string name="historial_de_ubicaciones">HISTORIAL DE UBICACIONES</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bateria_baja">Bateria Baja</string>
+    <string name="cambiar_numero_titulo">Cambiar Numero Módulo</string>
+    <string name="hint_num_dialog">Ingrese numero modulo SIM808</string>
+</resources>
